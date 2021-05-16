@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EhsanParsania
-- 👀 I’m interested in design , Data Analyse and ML
+- 👀 I’m interested in design , Data Analysis and ML
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React   
 
