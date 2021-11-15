@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 🅴🅷🆂🅰🅽 🅿🅰🆁🆂🅰🅽🅸🅰
 - 👀 I’m interested in Graphic Design, UI-UX, Blockchain, Mathematics
-- You can find me on [![Twitter][1.2]][1], or on ![LinkedIn][2.2].
+- ☎ You can find me on [![Twitter][1.2]][1], or on ![LinkedIn][2.2].
 
 <!-- Icons -->
 
