@@ -10,7 +10,7 @@
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/EhsanParsania
-[2]: www.linkedin.com/in/ehsan-parsania-1941b21bb
+[2]: https://linkedin.com/in/ehsan-parsania-1941b21bb
 
 
 <!---
