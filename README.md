@@ -27,7 +27,7 @@
   <a target="_blank" href="https://www.typescriptlang.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="TypeScript" width="45" height="45" /></a>
-    <a target="_blank" href="https://javascript.info/"><img
+    <a target="_blank" href="https://github.com/ethereum/solidity"><img
       src="https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png"
       alt="JavaScript" width="75" height="45" /></a>
   <a target="_blank" href="https://www.w3schools.com/html/"><img
@@ -66,30 +66,27 @@
   <a target="_blank" href="https://material-ui.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
       alt="Material-UI" width="45" height="45" /></a>
-  <a target="_blank" href="https://ant.design/"><img
+<!--   <a target="_blank" href="https://ant.design/"><img
       src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="45"
-      height="45" /></a>
+      height="45" /></a> -->
   <a target="_blank" href="https://tailwindcss.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
       alt="TailwindCSS" width="45" height="45" /></a>
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.figma.com/"><img
+<!--   <a target="_blank" href="https://www.figma.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
-      width="45" height="45" /></a>
+      width="45" height="45" /></a> -->
   <a target="_blank" href="https://d3js.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-plain.svg" alt="D3JS" width="45"
       height="45" /></a>
   <a target="_blank" href="https://www.mongodb.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongoDB" width="45" height="45" /></a>
-  <a target="_blank" href="https://firebase.google.com/"><img
+<!--   <a target="_blank" href="https://firebase.google.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"
-      alt="Firebase" width="45" height="45" /></a>
-  <a target="_blank" href="https://www.microsoft.com/en-us/sql-server"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-      alt="SQL Server" width="45" height="45" /></a>
+      alt="Firebase" width="45" height="45" /></a> -->
   <a target="_blank" href="https://git-scm.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="45"
       height="45" /></a>
