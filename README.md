@@ -93,7 +93,7 @@
   <a target="_blank" href="https://heroku.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"
       alt="heroku" width="45" height="45" /></a>
-    <a target="_blank" href="https://www.w3schools.com/html/"><img
+    <a target="_blank" href="https://metamask.io/"><img
       src="https://i0.wp.com/asifwaquar.com/wp-content/uploads/2020/04/meta.png?fit=338%2C215&ssl=1" alt="HTML"
       width="75" height="45" /></a>
 </p>
