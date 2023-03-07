@@ -1,10 +1,10 @@
 - 👋 Hi, I’m 🅴🅷🆂🅰🅽 🅿🅰🆁🆂🅰🅽🅸🅰
 - 👀 I’m interested in Blockchain, Mathematics, UI-UX
-- ☎ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+- ☎ You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter)
+
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
