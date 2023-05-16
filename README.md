@@ -1,12 +1,12 @@
 - 👋 Hi, I’m 🅴🅷🆂🅰🅽 🅿🅰🆁🆂🅰🅽🅸🅰
 - 👀 I’m interested in Blockchain, Mathematics, UI-UX
-- ☎ You can find me on [![LinkedIn][2.2]][2].
-- &#9993; You can reach me ehsan.parsa69@gmail.com
+- ☎ You can find me on [LinkedIn][2]
+- &#9993; You can reach me with ehsan.parsa69@gmail.com
 
 <!-- Icons -->
 
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn)
+[2.2]: https://img.icons8.com/color/16/000000/linkedin.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
