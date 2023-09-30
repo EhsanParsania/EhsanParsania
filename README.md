@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 🅴🅷🆂🅰🅽 🅿🅰🆁🆂🅰🅽🅸🅰
 - 👀 I’m interested in Blockchain & Finance
-- ☎ You can find me on [LinkedIn][2]
+- ☎ You can find me on  [LinkedIn][2]
 - &#9993; You can reach me with ehsan.parsa69@gmail.com
 
 <!-- Icons -->
