@@ -37,9 +37,6 @@
   <a target="_blank" href="https://www.w3schools.com/css/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="45"
       height="45" /></a>
-  <a target="_blank" href="https://webpack.js.org/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack"
-      width="45" height="45" /></a>
   <a target="_blank" href="https://reactjs.org/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS"
       width="45" height="45" /></a>
@@ -72,9 +69,11 @@
       height="45" /></a> -->
   <a target="_blank" href="https://tailwindcss.com/"><img src="https://tailwindcss.com/favicons/favicon.ico?v=3"
       alt="TailwindCSS" width="45" height="45" /></a>
-  <a target="_blank" href="https://getbootstrap.com/"><img
+    <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
+  <a target="_blank" href="https://parseplatform.org/"><img src="https://parseplatform.org/img/favicon/favicon-32x32.png"
+      alt="ParseServer" width="45" height="45" /></a>
 <!--   <a target="_blank" href="https://www.figma.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
       width="45" height="45" /></a> -->
