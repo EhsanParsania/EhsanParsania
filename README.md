@@ -70,8 +70,7 @@
 <!--   <a target="_blank" href="https://ant.design/"><img
       src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" width="45"
       height="45" /></a> -->
-  <a target="_blank" href="https://tailwindcss.com/"><img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+  <a target="_blank" href="https://tailwindcss.com/"><img src="https://tailwindcss.com/favicons/favicon.ico?v=3"
       alt="TailwindCSS" width="45" height="45" /></a>
   <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
