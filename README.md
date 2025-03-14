@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 🅴🅷🆂🅰🅽 🅿🅰🆁🆂🅰🅽🅸🅰
-- 👀 I’m interested in Blockchain & Finance
+- 👀 I'm a software engineer who enjoys building products and optimizing systems.
 - ☎ You can find me on  [LinkedIn][2]
 - &#9993; You can reach me with ehsan.parsa69@gmail.com
 
