@@ -31,7 +31,7 @@
     <a target="_blank" href="https://github.com/ethereum/solidity"><img
       src="https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png"
       alt="JavaScript" width="75" height="45" /></a>
-    <a target="_blank" href="https://github.com/ethereum/solidity"><img
+    <a target="_blank" href="https://www.python.org/"><img
       src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1646853871"
       alt="JavaScript" width="45" height="45" /></a>
   <a target="_blank" href="https://www.w3schools.com/html/"><img
