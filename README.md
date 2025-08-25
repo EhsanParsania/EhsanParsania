@@ -31,6 +31,9 @@
     <a target="_blank" href="https://github.com/ethereum/solidity"><img
       src="https://miro.medium.com/max/880/1*KhxTw-tTuNN8hhmbF3uzVw.png"
       alt="JavaScript" width="75" height="45" /></a>
+    <a target="_blank" href="https://github.com/ethereum/solidity"><img
+      src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1646853871"
+      alt="JavaScript" width="45" height="45" /></a>
   <a target="_blank" href="https://www.w3schools.com/html/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"
       width="45" height="45" /></a>
@@ -72,7 +75,7 @@
     <a target="_blank" href="https://getbootstrap.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="Bootstrap" width="45" height="45" /></a>
-  <a target="_blank" href="https://parseplatform.org/"><img src="https://parseplatform.org/img/favicon/favicon-32x32.png"
+  <a target="_blank" href="https://parseplatform.org/"><img src="https://parseplatform.org/assets/favicon-Bkmig-Or.svg"
       alt="ParseServer" width="45" height="45" /></a>
 <!--   <a target="_blank" href="https://www.figma.com/"><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"
