@@ -18,8 +18,6 @@
 
 <h2></h2>
 
----
-
 ### Languages and Tools
 
 <p align="center">
